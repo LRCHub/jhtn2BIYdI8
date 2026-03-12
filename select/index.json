@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "chAngE",
+  "base_artist": "miwa",
+  "createdAt": "2026-03-12T22:16:24.974544Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Change",
+      "artist": "King Gizzard & The Lizard Wizard",
+      "has_synced": true,
+      "path": "select/01_Change_King_Gizzard_&_The_Lizard_Wizard.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Short Change",
+      "artist": "King Gizzard & The Lizard Wizard",
+      "has_synced": true,
+      "path": "select/02_Short_Change_King_Gizzard_&_The_Lizard_Wizard.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Change Of Heart",
+      "artist": "Margo Price",
+      "has_synced": true,
+      "path": "select/03_Change_Of_Heart_Margo_Price.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Change Your Mind",
+      "artist": "Keith Urban",
+      "has_synced": true,
+      "path": "select/04_Change_Your_Mind_Keith_Urban.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "For a Change",
+      "artist": "Neal McCoy",
+      "has_synced": false,
+      "path": "select/05_For_a_Change_Neal_McCoy.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "For a Change (LP Version)",
+      "artist": "Neal McCoy",
+      "has_synced": false,
+      "path": "select/06_For_a_Change_(LP_Version)_Neal_McCoy.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "For a Change (Remastered Version)",
+      "artist": "Neal McCoy",
+      "has_synced": false,
+      "path": "select/07_For_a_Change_(Remastered_Version)_Neal_McCoy.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "I Wouldn't Change You If I Could",
+      "artist": "Ricky Skaggs",
+      "has_synced": false,
+      "path": "select/08_I_Wouldn't_Change_You_If_I_Could_Ricky_Skaggs.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "I Wouldn't Change You If I Could (Album Version)",
+      "artist": "Ricky Skaggs",
+      "has_synced": false,
+      "path": "select/09_I_Wouldn't_Change_You_If_I_Could_(Album_Version)_Ricky_Skaggs.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "SUBJECT TO CHANGE",
+      "artist": "Kelsea Ballerini",
+      "has_synced": true,
+      "path": "select/10_SUBJECT_TO_CHANGE_Kelsea_Ballerini.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "She'll Change",
+      "artist": "Molly Tuttle",
+      "has_synced": false,
+      "path": "select/11_She'll_Change_Molly_Tuttle.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Some Things Never Change",
+      "artist": "Flatland Cavalry",
+      "has_synced": true,
+      "path": "select/12_Some_Things_Never_Change_Flatland_Cavalry.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Something's Gonna Change Her Mind",
+      "artist": "Mark Collie",
+      "has_synced": true,
+      "path": "select/13_Something's_Gonna_Change_Her_Mind_Mark_Collie.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "There's Been a Change in Me",
+      "artist": "Eddy Arnold",
+      "has_synced": true,
+      "path": "select/14_There's_Been_a_Change_in_Me_Eddy_Arnold.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Things Change",
+      "artist": "Dwight Yoakam",
+      "has_synced": false,
+      "path": "select/15_Things_Change_Dwight_Yoakam.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Winds Change",
+      "artist": "Orville Peck",
+      "has_synced": true,
+      "path": "select/16_Winds_Change_Orville_Peck.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "You're Gonna Change - Remastered Version",
+      "artist": "Emmylou Harris",
+      "has_synced": false,
+      "path": "select/17_You're_Gonna_Change_-_Remastered_Version_Emmylou_Harris.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Change",
+      "artist": "Taylor Swift",
+      "has_synced": true,
+      "path": "select/18_Change_Taylor_Swift.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "chAngE",
+      "artist": "miwa",
+      "has_synced": false,
+      "path": "select/pl_01_chAngE_miwa.txt"
+    }
+  ]
+}
